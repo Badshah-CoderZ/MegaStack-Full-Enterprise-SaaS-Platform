@@ -1,0 +1,6 @@
+/frontend (Next.js, Tailwind, SSR UI)
+/backend (Node.js / FastAPI – scalable microservices)
+/auth-service (JWT + OAuth – multi-tenant accounts)
+/billing-service (Stripe sandbox integration demo)
+/admin-dashboard (User mgmt, roles, logs, analytics)
+/docs (system design diagrams, flowcharts, API spec)
